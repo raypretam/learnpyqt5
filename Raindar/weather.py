@@ -11,7 +11,7 @@ import sys
 import requests
 from urllib.parse import urlencode
 
-OPENWEATHERMAP_API_KEY = "f507a3406be2d592eca505a568938b68"
+OPENWEATHERMAP_API_KEY = "YOUR TOKEN HERE"
 """
 Get an API key from https://openweathermap.org/ to use with this
 application.
